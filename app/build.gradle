@@ -19,7 +19,7 @@ repositories {
 test {
 	testLogging {
 		showStandardStreams = true
-		exceptionFormat 'full'
+		exceptionFormat = 'full'
 	}
 }
 
